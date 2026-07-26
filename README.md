@@ -1,11 +1,58 @@
-👋 Hi, I’m Shubham Maurya
+# Hi, I'm Shubham Maurya 👋
 
-I’m a Software Developer with a strong interest in Full-Stack Development and Artificial Intelligence.
-I enjoy building real-world applications using modern technologies, focusing on clean code, scalability, and user-friendly design.
+I'm a Full-Stack Software Engineer with 3+ years of experience building scalable, high-performance web applications using Angular, TypeScript, Java, and Spring Boot.
 
-Currently, I’m working with Angular and Spring Boot, and continuously improving my skills by building practical projects and exploring new tools in the ecosystem.
+I enjoy designing clean architectures, building responsive user interfaces, developing secure REST APIs, and solving real-world engineering problems with a strong focus on maintainability, performance, and scalability.
 
-<!---
-codershubham-123/codershubham-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack
+
+**Frontend**
+- Angular 21
+- TypeScript
+- JavaScript
+- RxJS
+- NgRx
+- HTML5
+- CSS3
+- Angular Material
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JWT Authentication
+
+**Database**
+- MySQL
+- MongoDB
+
+**Cloud & DevOps**
+- Git
+- GitHub
+- GitLab
+- CI/CD
+- AWS
+- Azure
+- Netlify
+- Render
+- Aiven
+
+**AI-Assisted Development**
+- ChatGPT
+- Claude
+- Gemini
+- OpenAI Codex
+
+### Engineering Interests
+
+- Full-Stack Development
+- Scalable Web Applications
+- Software Architecture
+- Performance Optimization
+- Clean Code
+- REST API Design
+- Continuous Learning
+
